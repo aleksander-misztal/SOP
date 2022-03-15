@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aleksander Misztal/Desktop/SOP/LAB01 - HW/algos.c
+
+C:/Users/Aleksander Misztal/Desktop/SOP/LAB01 - HW/functions.c
+algos.c
+C:/Users/Aleksander Misztal/Desktop/SOP/LAB01 - HW/algos.c
+
+C:/Users/Aleksander Misztal/Desktop/SOP/LAB01 - HW/main.c
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+functions.c
+C:/Users/Aleksander Misztal/Desktop/SOP/LAB01 - HW/functions.c
+test.h
+C:/Users/Aleksander Misztal/Desktop/SOP/LAB01 - HW/test.h
+
+C:/Users/Aleksander Misztal/Desktop/SOP/LAB01 - HW/test.h
+
